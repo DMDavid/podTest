@@ -2,7 +2,7 @@
   "name": "MyLib",
   "version": "0.1.0",
   "summary": "A short description of MyLib.",
-  "description": "TODO: Add long description of the pod here.",
+  "description": "烧烧烧",
   "homepage": "https://github.com/DMDavid/MyLib",
   "license": {
     "type": "MIT",
@@ -12,7 +12,7 @@
     "DMDavid": "894566327@qq.com"
   },
   "source": {
-    "git": "https://github.com/DMDavid/MyLib.git",
+    "git": "https://github.com/DMDavid/podTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
